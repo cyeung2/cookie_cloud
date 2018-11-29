@@ -9,6 +9,7 @@ public class MyDateTest {
 		System.out.println(d1.nextMonth());
 		System.out.println(d1.nextYear());
 
+		
 		MyDate d2 = new MyDate(2012, 1, 2);
 		System.out.println(d2);
 		System.out.println(d2.previousDay());
